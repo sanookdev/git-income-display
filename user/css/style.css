@@ -1,0 +1,89 @@
+.btn-submit {
+    height: 25px;
+    line-height: 1;
+}
+
+.table-invoice {
+    width: 90%;
+    border: 1px solid #000000;
+}
+
+.table-invoice thead>tr>th,
+.table-invoice tfoot>tr>td,
+.table-invoice tbody>tr>td {
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.table-invoice tbody tr td {
+    text-align: center;
+}
+
+.table-invoice tfoot tr td {
+    padding: 8px;
+}
+
+.table-invoice tr>th {
+    text-align: center;
+    padding: 8px;
+}
+
+.row-fill {
+    height: 450px;
+    vertical-align: top;
+}
+
+.row-fill td {
+    padding-top: 32px;
+}
+
+.sum {
+    text-align: left !important;
+    padding-left: 6px;
+    font-size: 14px;
+}
+
+.detail {
+    padding-left: 4px;
+    padding-right: 12px;
+}
+
+.no-border td {
+    padding: 4px !important;
+    border-right: none !important;
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pdLeft {
+    padding-left: 70px;
+}
+
+.pdRight {
+    padding-right: 70px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font14 {
+    font-size: 14px;
+}
